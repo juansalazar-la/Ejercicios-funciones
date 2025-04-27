@@ -7,4 +7,4 @@ def area_solido(r1,h,r2):
 
     print(f"El volumen del sólido es: {solido}")
     return solido
-area_solido(3, 9/2 , 4)
+area_solido(3, 9//2 , 4)
